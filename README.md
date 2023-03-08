@@ -7,3 +7,6 @@ My first repository
 - https://docs.github.com/ja/authentication/managing-commit-signature-verification
 - https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-the-automatic-deletion-of-branches
 - https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule
+
+## test
+- 20230308
